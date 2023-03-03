@@ -1,0 +1,18 @@
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: #f6f7d2;
+}
+
+a{
+	font-family: 'Golos Text', sans-serif;
+	text-decoration: none;
+	text-align: center;
+}
+
+
